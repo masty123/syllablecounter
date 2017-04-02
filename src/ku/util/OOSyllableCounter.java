@@ -6,7 +6,7 @@ package ku.util;
  * @author Theeruth Borisuth
 
  *
- */
+ */	
 public class OOSyllableCounter extends SyllableCounter {
 	//state of object .
 	private State state;

@@ -1,7 +1,7 @@
 package ku.util;
 /**
  * An enum Class call "State".
- * @author HP
+ * @author Theeruth Borisuth
  *
  */
 public enum State {
